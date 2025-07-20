@@ -1,0 +1,110 @@
+body {background: #FFFFFF;}
+
+.container{
+	display: flex;
+  gap: 2px;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+  padding: 20px 20px;
+  background-color: #BBECF7;
+  margin: 40px auto;
+  max-width: 1200px;
+  border-radius: 12px;}
+
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {color: #006298;
+	font-family: arial;
+	font-weight: bold;
+	text-align: center;}
+
+h2 {font-family: arial;
+	color: #006298;}
+
+p {font-family: arial;
+	color: #373A36;}
+
+li {font-family: arial;
+	color: #373A36;}
+
+th {font-family: arial;
+	color: #373A36;}
+
+td {font-family: arial;
+	color: #373A36;}
+
+.paragraph{width: 65%;}
+
+img {
+  max-width: 40%;
+  height: auto;
+  display: block;
+}
+
+.history{
+  text-align: center;
+  padding: 20px 20px;
+  background-color: #BBECF7;
+  margin: 40px auto;
+  max-width: 1200px;
+  border-radius: 12px;
+}
+
+#JoinUs{
+  padding: 20px 20px;
+  margin: 2px;
+  max-width: 260px;
+  border-radius: 12px;
+}
+
+#Volunteer{
+  padding: 20px 20px;
+  margin: 2px;
+  max-width: 260px;
+  border-radius: 12px;
+}
+
+.sparks{
+  padding: 20px 20px;
+  background-color: #F4CDD4;
+  margin: 40px auto;
+  max-width: 200px;
+  border-radius: 12px;
+}
+
+.brownies{
+  padding: 20px 20px;
+  background-color: #FFB25B;
+  margin: 40px auto;
+  max-width: 200px;
+  border-radius: 12px;
+}
+
+.guides{
+  padding: 20px 20px;
+  background-color: #8DC8E8;
+  margin: 40px auto;
+  max-width: 200px;
+  border-radius: 12px;
+}
+
+.pathfinders{
+  padding: 20px 20px;
+  background-color: #ADDC91;
+  margin: 40px auto;
+  max-width: 200px;
+  border-radius: 12px;
+}
+
+.rangers{
+  padding: 20px 20px;
+  background-color: #FF8674;
+  margin: 40px auto;
+  max-width: 200px;
+  border-radius: 12px;
+}
